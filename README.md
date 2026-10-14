@@ -1,4 +1,4 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN 
+# BÁO CÁO BÀI TẬP 
 ## THÔNG TIN SINH VIÊN 
 - **Họ và tên:** Vương Thanh Thúy 
 - **Mã số sinh viên:** 24810310270
