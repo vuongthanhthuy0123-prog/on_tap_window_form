@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmCKgJAlbr0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vuong\\Downloads\\OnTapWindowsForm\\WinFormsOnTap\\Bai3_QuanLyVatTu\\Bai3_QuanLyVatTu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.32\\microsoft.netcore.app.host.win-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

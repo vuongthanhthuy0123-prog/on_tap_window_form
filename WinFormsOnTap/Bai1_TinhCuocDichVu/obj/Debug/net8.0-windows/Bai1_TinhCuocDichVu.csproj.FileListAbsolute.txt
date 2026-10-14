@@ -1,0 +1,15 @@
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\bin\Debug\net8.0-windows\Bai1_TinhCuocDichVu.exe
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\bin\Debug\net8.0-windows\Bai1_TinhCuocDichVu.deps.json
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\bin\Debug\net8.0-windows\Bai1_TinhCuocDichVu.runtimeconfig.json
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\bin\Debug\net8.0-windows\Bai1_TinhCuocDichVu.dll
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\bin\Debug\net8.0-windows\Bai1_TinhCuocDichVu.pdb
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.AssemblyInfo.cs
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.dll
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\refint\Bai1_TinhCuocDichVu.dll
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.pdb
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_TinhCuocDichVu.genruntimeconfig.cache
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\ref\Bai1_TinhCuocDichVu.dll
+C:\Users\vuong\Downloads\OnTapWindowsForm\WinFormsOnTap\Bai1_TinhCuocDichVu\obj\Debug\net8.0-windows\Bai1_Tin.254643F6.Up2Date
